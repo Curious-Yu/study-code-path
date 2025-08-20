@@ -26,7 +26,8 @@ This repo tracks my learning, projects, and professional certificates across UI/
 - 💻 Project #2: Website redesign with accessibility focus  
 
 ### Month 2 – Accessibility Foundations  [Accessibility](./accessibility)
-- 📜 Web Accessibility Specialization  
+- 📜 An Introduction to Accessibility and Inclusive Design
+- 📜 WCAG Compliance: Web Accessibility Best Practices
 - 📜 Section 508 Accessibility Training  
 - 💻 Project #4: Accessible blog site  
 - 💻 Project #5: Accessible restaurant landing page  
@@ -58,12 +59,13 @@ This repo tracks my learning, projects, and professional certificates across UI/
 
 ### 🎨 UI/UX Design
 - [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)  
-- [Figma, Sketch, and Miro for UX Design Professional Certificate](https://www.coursera.org/specializations/figma-sketch-miro-ux-design)  
+- [Figma, Sketch, and Miro for UX Design Professional Certificate](https://www.coursera.org/professional-certificates/coursera-ux-design-toolkit/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_coursera-ux-design-toolkit_coursera_ftcof_professional-certificates_px_dr_bau_gg_sem_gc-bd_us-ca_en_m_hyb_25-04_x&campaignid=22441375619&adgroupid=181855460550&device=c&keyword=&matchtype=&network=g&devicemodel=&creativeid=746087319807&assetgroupid=&targetid=dsa-2414261091063&extensionid=&placement=&gad_source=1&gad_campaignid=22441375619&gbraid=0AAAAADdKX6anOITH0_aq45ssk8cKT-50H&gclid=EAIaIQobChMI8J6D6JCYjwMVaTgIBR14pQOsEAAYASAAEgKJd_D_BwE)
 
 ---
 
 ### ♿ Accessibility
-- [Web Accessibility Specialization – University of Colorado](https://www.coursera.org/specializations/web-accessibility)  
+- [An Introduction to Accessibility and Inclusive Design](https://www.coursera.org/learn/accessibility)
+- [WCAG Compliance: Web Accessibility Best Practices](https://www.coursera.org/learn/wcag-compliance-web-accessibility-best-practices)
 - [Section 508 Accessibility Training (GSA)](https://www.section508.gov/training/)  
 - [IAAP CPACC Certification](https://www.accessibilityassociation.org/cpacc)  
 
@@ -71,7 +73,7 @@ This repo tracks my learning, projects, and professional certificates across UI/
 
 ### 🌐 Front-End Development
 - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)  
-- [TypeScript for React Developers (Guided Project)](https://www.coursera.org/projects/react-typescript)  
+- [TypeScript for React Developers (Guided Project)](https://www.coursera.org/projects/rudi-hinds-typescript-react-get-started)  
 
 ---
 
@@ -81,7 +83,7 @@ This repo tracks my learning, projects, and professional certificates across UI/
 ---
 
 ### 🤖 Applied AI
-- [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-ai-ibm)  
+- [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)  
 
 ---
 
@@ -94,14 +96,15 @@ This repo tracks my learning, projects, and professional certificates across UI/
 ### 📜 Total Certificates (10)
 1. Google UX Design  
 2. Figma, Sketch & Miro for UX Design  
-3. Web Accessibility Specialization  
-4. Section 508 Training  
-5. IAAP CPACC Certification  
-6. Meta Front-End Developer  
-7. Meta Back-End Developer  
-8. IBM Applied AI  
-9. AWS Cloud Technology Consultant  
-10. Snowflake Generative AI  
+3. An Introduction to Accessibility and Inclusive Design
+4. WCAG Compliance: Web Accessibility Best Practices
+5. Section 508 Training  
+6. IAAP CPACC Certification  
+7. Meta Front-End Developer  
+8. Meta Back-End Developer  
+9. IBM Applied AI  
+10. AWS Cloud Technology Consultant  
+11. Snowflake Generative AI  
 
 
 ---
