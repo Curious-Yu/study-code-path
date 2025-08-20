@@ -55,15 +55,54 @@ This repo tracks my learning, projects, and professional certificates across UI/
 ---
 
 ## 📜 Certificates
-- Google UX Design  
-- Meta Front-End Developer  
-- Meta Back-End Developer  
-- IBM Applied AI  
-- AWS Cloud Technology Consultant  
-- Snowflake Generative AI  
-- Web Accessibility Specialization  
-- Section 508 Training  
-- IAAP CPACC  
+
+### 🎨 UI/UX Design
+- [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)  
+- [Figma, Sketch, and Miro for UX Design Professional Certificate](https://www.coursera.org/specializations/figma-sketch-miro-ux-design)  
+
+---
+
+### ♿ Accessibility
+- [Web Accessibility Specialization – University of Colorado](https://www.coursera.org/specializations/web-accessibility)  
+- [Section 508 Accessibility Training (GSA)](https://www.section508.gov/training/)  
+- [IAAP CPACC Certification](https://www.accessibilityassociation.org/cpacc)  
+
+---
+
+### 🌐 Front-End Development
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)  
+- [TypeScript for React Developers (Guided Project)](https://www.coursera.org/projects/react-typescript)  
+
+---
+
+### 🔧 Back-End Development
+- [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)  
+
+---
+
+### 🤖 Applied AI
+- [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-ai-ibm)  
+
+---
+
+### ☁️ Cloud & AI Integration
+- [AWS Cloud Technology Consultant Professional Certificate](https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant)  
+- [Snowflake Generative AI Professional Certificate](https://www.coursera.org/professional-certificates/snowflake-generative-ai)  
+
+---
+
+### 📜 Total Certificates (10)
+1. Google UX Design  
+2. Figma, Sketch & Miro for UX Design  
+3. Web Accessibility Specialization  
+4. Section 508 Training  
+5. IAAP CPACC Certification  
+6. Meta Front-End Developer  
+7. Meta Back-End Developer  
+8. IBM Applied AI  
+9. AWS Cloud Technology Consultant  
+10. Snowflake Generative AI  
+
 
 ---
 
