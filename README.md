@@ -20,7 +20,7 @@ This repo tracks my learning, projects, and professional certificates across UI/
 ## 🗓️ 6-Month Plan
 
 ### Month 1 – UI/UX Foundations  [UI/UX](./ui-ux)
-- 📜 Google UX Design Professional Certificate  
+- 📜 Google UX Design Professional Certificate  🚧
 - 📜 Figma for UX Design  
 - 💻 Project #1: Figma mobile app mockup  
 - 💻 Project #2: Website redesign with accessibility focus  
@@ -93,8 +93,8 @@ This repo tracks my learning, projects, and professional certificates across UI/
 
 ---
 
-### 📜 Total Certificates (10)
-1. Google UX Design  🚧
+### 📜 Total Certificates
+1. Google UX Design 
 2. Figma, Sketch & Miro for UX Design  
 3. An Introduction to Accessibility and Inclusive Design
 4. WCAG Compliance: Web Accessibility Best Practices
