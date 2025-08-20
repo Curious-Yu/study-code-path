@@ -128,9 +128,4 @@ This roadmap positions me as a **Full-Stack Accessible AI Engineer** with rare c
 
 ---
 
-## 📈 Progress Tracking
-✅ Month 1 completed: [Link to commits/projects]  
-🚧 Currently in Month 2: [Accessibility projects in progress]  
-
----
 
