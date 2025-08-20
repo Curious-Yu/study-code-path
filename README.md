@@ -19,34 +19,34 @@ This repo tracks my learning, projects, and professional certificates across UI/
 
 ## 🗓️ 6-Month Plan
 
-### Month 1 – UI/UX Foundations  
+### Month 1 – UI/UX Foundations  [UI/UX](./ui-ux)
 - 📜 Google UX Design Professional Certificate  
 - 📜 Figma for UX Design  
 - 💻 Project #1: Figma mobile app mockup  
 - 💻 Project #2: Website redesign with accessibility focus  
 
-### Month 2 – Accessibility Foundations  
+### Month 2 – Accessibility Foundations  [Accessibility](./accessibility)
 - 📜 Web Accessibility Specialization  
 - 📜 Section 508 Accessibility Training  
 - 💻 Project #4: Accessible blog site  
 - 💻 Project #5: Accessible restaurant landing page  
 
-### Month 3 – Front-End (React + TypeScript)  
+### Month 3 – Front-End (React + TypeScript)  [Front-End](./frontend)
 - 📜 Meta Front-End Developer Certificate  
 - 💻 Project #7: Recipe Finder (React + TS)  
 - 💻 Project #8: Accessible E-Commerce Cart  
 
-### Month 4 – Back-End & APIs  
+### Month 4 – Back-End & APIs  [Back-End](./backend)
 - 📜 Meta Back-End Developer Certificate  
 - 💻 Project #10: Node.js Auth System  
 - 💻 Project #11: Full-Stack Task Manager  
 
-### Month 5 – Applied AI Integration  
+### Month 5 – Applied AI Integration  [Applied AI](./ai)
 - 📜 IBM Applied AI Certificate  
 - 💻 Project #13: AI Chatbot Assistant  
 - 💻 Project #15: Auto Alt-Text Generator  
 
-### Month 6 – Cloud & Advanced Accessibility  
+### Month 6 – Cloud & Advanced Accessibility  [Cloud](./cloud)
 - 📜 AWS Cloud Technology Consultant  
 - 📜 Snowflake Generative AI Certificate  
 - 📜 IAAP CPACC (external)  
@@ -154,8 +154,6 @@ This repo tracks my learning, projects, and professional certificates across UI/
 16.	Capstone: AI-Powered Accessible App on AWS – deploy full-stack app with AI & WCAG compliance
 17.	Snowflake Generative AI Chatbot – enterprise-grade Q&A chatbot
 18.	Accessibility Test Suite – run audits using JAWS, NVDA, axe, Lighthouse
-
-*(See `/projects` folder for details & code)*  
 
 ---
 
