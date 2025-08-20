@@ -94,7 +94,7 @@ This repo tracks my learning, projects, and professional certificates across UI/
 ---
 
 ### 📜 Total Certificates (10)
-1. Google UX Design  
+1. Google UX Design  🚧
 2. Figma, Sketch & Miro for UX Design  
 3. An Introduction to Accessibility and Inclusive Design
 4. WCAG Compliance: Web Accessibility Best Practices
