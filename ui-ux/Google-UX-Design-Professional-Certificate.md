@@ -229,6 +229,51 @@ Collaboration is central: UX designers rarely work alone — they partner with r
 
 ---
 
+## Evolution of UX Tools
+- Early years: **Adobe Creative Suite (Photoshop)** → mostly for print/static design.  
+- **2010–2015**: Digital-first tools emerged:  
+  - **Sketch (2010):** first tool built specifically for UX.  
+  - **Freehand (2011)** & **Zeplin (2015):** added prototyping & collaboration.  
+- **2016–Today**: Collaborative design tools dominate:  
+  - **Figma (2016):** real-time collaboration, prototyping, Dev Mode, plug-ins.  
+  - **Adobe XD (2016):** once popular, now in maintenance mode.  
+
+---
+
+## Considerations When Choosing UX Tools
+1. **Who you are as a designer** – role and responsibilities (e.g., UX, visual, or motion designer).  
+2. **Design context** – company standards, project needs, collaboration level.  
+3. **Tool capabilities** –  
+   - Mobile-responsive design.  
+   - Prototyping, testing, reviewing.  
+   - Team collaboration.  
+   - Centralized design system for consistency.  
+
+---
+
+## Tool Comparison
+
+### Sketch, Freehand, Zeplin
+- Good for large teams.  
+- Often paired with other tools.  
+- Can be used offline.  
+- Limited: no real-time collaboration or integrated prototyping.  
+
+### Figma
+- Excellent for most designers and contexts.  
+- All-in-one: design, collaboration, prototyping.  
+- Remote-friendly, requires WiFi.  
+- Includes **FigJam** for brainstorming and whiteboarding.  
+
+---
+
+## ✅ Key Takeaway
+UX tools have evolved from **static print design** to **collaborative, digital-first platforms**.  
+- **Figma** is the leading modern tool and the focus of this certificate program.  
+- Designers may use multiple tools in their careers, but choosing the right one depends on role, context, and capabilities.
+
+---
+
 ￼ ￼ ￼
 # 2.	Start the UX Design Process: Empathize, Define, and Ideate
 Focus on early UX process steps: empathy mapping, user pain points, ideation, personas, mockups, and user flows.
