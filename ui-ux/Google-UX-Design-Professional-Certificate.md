@@ -11,12 +11,6 @@ Learn UX basics: user-centered design, accessibility, design thinking, sprint pr
 
 ## What Makes a Good User Experience?
 
----
-
-### **2. Quadrant Style**  
-Shows all four as equal parts branching from UX.  
-
-
 ```mermaid
 flowchart TB
     A[Good UX] --> B[Usable]
