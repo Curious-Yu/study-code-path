@@ -160,6 +160,52 @@ flowchart LR
 - UX designers are most active in **design** but collaborate throughout.  
 - Success depends on completing each stage carefully before moving forward.  
 - Every product you use has gone through this process — recognizing it helps you think like a UX designer.
+
+---
+
+## Common Traits of UX Designers
+- Come from **diverse backgrounds** (marketing, teaching, retail, art, etc.).  
+- Share common skills & interests rather than similar work histories.  
+- Tend to be:  
+  - **Visually aware** – sense of layout, color, and balance.  
+  - **Curious** – about people and how they think.  
+  - **Empathetic** – able to understand others’ feelings and perspectives.  
+  - **Resourceful** – often self-taught or leveraging past jobs/hobbies.  
+
+---
+
+## Types of UX Designers
+- **Interaction Designers**  
+  - Focus on product functionality and how users interact with it.  
+  - Balance user needs, business goals, and technical feasibility.  
+  - *Example:* designing security/privacy tools at Google.  
+
+- **Visual Designers**  
+  - Focus on **appearance** (logos, icons, fonts, colors, layouts).  
+
+- **Motion Designers**  
+  - Focus on **movement and transitions** within apps/websites.  
+  - Create smooth, engaging user flows.  
+
+- **Graphic Designers (related but different)**  
+  - Work on visuals for physical/digital materials (e.g., posters, invitations).  
+  - UX designers differ by focusing on **interaction** with products.  
+
+---
+
+## Colleagues UX Designers Work With
+- **UX Researchers** – conduct studies, interviews, usability testing.  
+- **UX Writers** – create clear, intuitive language (e.g., button labels, tone).  
+- **Production Designers** – ensure final designs match specs; prepare assets for engineers.  
+- **UX Engineers** – translate designs into working apps/websites.  
+- **UX Program Managers** – coordinate communication, set goals, manage timelines.  
+
+---
+
+## ✅ Key Takeaway
+UX design is **multidisciplinary**, with roles ranging from **interaction, visual, and motion design** to **research, writing, engineering, and management**.  
+Collaboration is central: UX designers rarely work alone — they partner with researchers, writers, engineers, and managers to create smooth, user-friendly experiences.
+
 ---
 ￼ ￼ ￼
 # 2.	Start the UX Design Process: Empathize, Define, and Ideate
