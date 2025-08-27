@@ -3,6 +3,48 @@
 ## 1.	Foundations of User Experience (UX) Design
 Learn UX basics: user-centered design, accessibility, design thinking, sprint processes, personas, wireframing, and prototyping.
 
+## What is User Experience (UX)?
+- **UX** = how a person feels when interacting with a product (goods, services, features).  
+- Products can be physical (e.g., potato chips, video game controller) or digital (e.g., apps, websites, smartwatches).
+
+---
+
+## What Makes a Good User Experience?
+- **Usable** – easy to use; clear design, structure, and purpose.  
+  - *Example:* ketchup bottle redesign from glass (hard to use) to squeezable plastic (easy and controlled).  
+
+- **Equitable** – accessible and marketable to people with diverse needs and abilities.  
+  - *Example:* designing apps that include features like sound for visually impaired users.  
+
+- **Enjoyable** – creates a positive emotional connection with the product.  
+  - *Example:* ordering food online with photos and reviews makes the process fun and satisfying.  
+
+- **Useful** – solves real problems effectively.  
+  - *Example:* a map app is useful if it accurately finds your location.  
+
+---
+
+## Why UX Matters to Business
+- Companies with good usability and design outperform competitors *(McKinsey & Company, 2018)*.  
+- Positive UX leads to:  
+  - More frequent use of the product.  
+  - Word-of-mouth recommendations.  
+  - Stronger brand reputation.  
+- Good UX benefits both the **user** (satisfaction, ease, joy) and the **business** (growth, loyalty, revenue).  
+
+---
+
+## Role of UX Designers
+- Understand and address the needs of diverse users.  
+- Conduct research to learn how users experience products.  
+- Improve usability, equity, enjoyment, and usefulness.  
+- Educate businesses on the value of UX in driving success.  
+
+---
+
+## ✅ Key takeaway
+A well-designed user experience makes products **usable, equitable, enjoyable, and useful** — benefiting both people and businesses.
+
 ---
 ￼ ￼ ￼
 ## 2.	Start the UX Design Process: Empathize, Define, and Ideate
