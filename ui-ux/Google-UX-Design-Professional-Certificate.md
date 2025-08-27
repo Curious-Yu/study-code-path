@@ -10,17 +10,46 @@ Learn UX basics: user-centered design, accessibility, design thinking, sprint pr
 ---
 
 ## What Makes a Good User Experience?
-- **Usable** – easy to use; clear design, structure, and purpose.  
-  - *Example:* ketchup bottle redesign from glass (hard to use) to squeezable plastic (easy and controlled).  
 
-- **Equitable** – accessible and marketable to people with diverse needs and abilities.  
-  - *Example:* designing apps that include features like sound for visually impaired users.  
+## 1. Usable
+- Design, structure, and purpose are **clear and easy to use**.  
+- **Key questions:**  
+  - Is everything easy to find?  
+  - Can users understand functionality?  
+  - Can tasks be completed easily?  
+- *Example:* An airline app with a simple homepage to enter flight details.  
 
-- **Enjoyable** – creates a positive emotional connection with the product.  
-  - *Example:* ordering food online with photos and reviews makes the process fun and satisfying.  
+---
 
-- **Useful** – solves real problems effectively.  
-  - *Example:* a map app is useful if it accurately finds your location.  
+## 2. Equitable
+- Design is **helpful to people with diverse abilities and backgrounds**.  
+- Goes beyond equality → provides different tools/support based on user needs.  
+- **Key questions:**  
+  - Are diverse users’ needs considered?  
+  - Does it support underrepresented groups?  
+- *Example:* A messaging app with skin tone emojis and gender-neutral avatars.  
+
+---
+
+## 3. Enjoyable
+- Design **delights the user** and creates a positive emotional connection.  
+- Enhances a functional product by adding delight and engagement.  
+- **Key questions:**  
+  - Does it reflect user feelings?  
+  - Does it inspire delight and engagement?  
+- *Example:* A streaming app with personalized recommendations and customization options.  
+
+---
+
+## 4. Useful
+- Design **solves user problems** directly and adds value.  
+- Different from usability:  
+  - *Usable* = easy to use.  
+  - *Useful* = solves the right problem.  
+- **Key questions:**  
+  - Does it solve a problem?  
+  - Does it help users achieve goals?  
+- *Example:* A banking app with features to transfer money and pay bills.  
 
 ---
 
