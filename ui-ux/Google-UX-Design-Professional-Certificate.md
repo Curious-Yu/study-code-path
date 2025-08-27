@@ -25,7 +25,7 @@ Learn UX basics: user-centered design, accessibility, design thinking, sprint pr
 ---
 
 ## Why UX Matters to Business
-- Companies with good usability and design outperform competitors *(McKinsey & Company, 2018)*.  
+- Companies with good usability and design outperform competitors  
 - Positive UX leads to:  
   - More frequent use of the product.  
   - Word-of-mouth recommendations.  
