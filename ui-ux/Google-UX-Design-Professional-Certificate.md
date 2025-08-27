@@ -207,6 +207,28 @@ UX design is **multidisciplinary**, with roles ranging from **interaction, visua
 Collaboration is central: UX designers rarely work alone — they partner with researchers, writers, engineers, and managers to create smooth, user-friendly experiences.
 
 ---
+
+## Key UX Career Paths
+
+### Design-Focused Roles
+- **Interaction Designer** – Focus on **user flow and functionality**; make products easy to navigate.  
+- **Visual Designer** – Focus on **appearance** (logos, fonts, colors, layouts); ensure visual consistency.  
+- **Motion Designer** – Focus on **movement and transitions**; create smooth animations and user flows.  
+- **VR/AR Designer** – Create **immersive 3D experiences**; consider comfort, sound, and visuals.  
+
+### Research & Content Roles
+- **UX Researcher** – Study how people use products; identify pain points and test usability.  
+- **UX Writer** – Craft clear, intuitive language; define brand voice; write button labels and app copy.  
+
+### Collaboration & Implementation Roles
+- **UX Program Manager** – Coordinate communication, set goals, manage resources and timelines.  
+- **UX Engineer** – Translate designs into working apps/websites; bridge between design and development.  
+
+### Specialized Role
+- **Conversation Designer** – Build **chatbots, voice assistants, and conversational systems**; design dialog flow, tone, and personality.  
+
+---
+
 ￼ ￼ ￼
 # 2.	Start the UX Design Process: Empathize, Define, and Ideate
 Focus on early UX process steps: empathy mapping, user pain points, ideation, personas, mockups, and user flows.
